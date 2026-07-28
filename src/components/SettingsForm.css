@@ -1,0 +1,18 @@
+.settings-form {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.settings-form input,
+.settings-form select {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 6px;
+}
+
+.settings-form button {
+  padding: 8px 16px;
+}
